@@ -1,0 +1,2 @@
+simpleIsLocalSwitch.cs	[ローカル]on/offスイッチ
+rotationTypeLocalSwitch.cs	[ローカル]ローテーション式スイッチ
